@@ -15,5 +15,18 @@
   "devDependencies": {
     "assertit": "^0.1.0"
   },
-  "keywords": []
+  "keywords": [
+    "check",
+    "color",
+    "colors",
+    "css",
+    "css-color",
+    "hex",
+    "hex-color",
+    "hexcolor",
+    "regex",
+    "regexp",
+    "validate",
+    "value"
+  ]
 }
